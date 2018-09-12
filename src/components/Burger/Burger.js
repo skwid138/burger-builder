@@ -12,6 +12,7 @@ const burger = props => {
 					return <BurgerIngredient key={ ingredientKey + index } type={ ingredientKey } />;
 				});
 		})
+		/* flatten array so there isn't empty ingredients */
 		.reduce((arr, el) => {
 			return arr.concat(el);
 		}, []);
@@ -27,6 +28,6 @@ const burger = props => {
 			<BurgerIngredient type="bread-bottom" />
 		</div>
 	);
-}
+};
  
 export default burger;

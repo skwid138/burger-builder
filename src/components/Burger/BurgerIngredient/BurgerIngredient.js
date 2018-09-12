@@ -36,7 +36,7 @@ class BurgerIngredient extends Component {
 		}
 
 		return ingredient;
-	}
+	};
 };
 
 /* Make sure all ingredients are strings and they are required */
