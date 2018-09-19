@@ -1,5 +1,5 @@
 # Big Time Burger Builder
 
-[Try it out!](https://big-time-burger-builder.herokuapp.com/){:target="_blank"}
+<a href="https://big-time-burger-builder.herokuapp.com/" target="_blank" >Try it out!</a>
 
 ![](big-time.gif)
