@@ -3,3 +3,9 @@
 <a href="https://big-time-burger-builder.herokuapp.com/" target="_blank" >Try it out!</a>
 
 ![](big-time.gif)
+
+
+## Tech Used
+- Firebase
+- Node
+- React
